@@ -1,0 +1,55 @@
+---
+layout: page
+title: "NE Florida Storm Prep Checklist (Roof & Exterior Edition)"
+permalink: /products/storm-prep-checklist/
+description: "A step-by-step, 6-page PDF to prepare your roof and home for hurricane season in Northeast Florida."
+image: /assets/cover-images/storm-prep-cover.jpg
+---
+
+<meta name="title" content="NE Florida Storm Prep Checklist (Roof & Exterior Edition)">
+<meta name="description" content="Prepare your roof & home for hurricane season. 6-page PDF with inspection points, exterior prep, supplies, and local resources.">
+{% seo %}
+
+# 🌀 NE Florida Storm Prep Checklist: Roof & Exterior Edition
+
+**Protect your home before the next storm hits.** This downloadable, print-ready **6-page PDF** guides Northeast Florida homeowners through:
+- ✅ **Roof Inspection Points** (shingles/tiles, flashing, ridge caps, gutters, attic)
+- ✅ **Exterior Prep Steps** (trees, furniture, shutters, garage doors)
+- ✅ **Emergency Supply List**
+- ✅ **Storm Response Quick Guide** (before/during/after)
+- ✅ **Local Emergency Resources** (county & state)
+
+<p style="text-align:center; margin: 28px 0;">
+  <a href="{{ site.checklist_url }}" 
+     style="background-color:#F95738; color:#FFFFFF; padding:14px 28px; text-decoration:none; font-weight:bold; border-radius:6px; font-family:Montserrat, Arial, sans-serif;">
+     📥 Download the NE Florida Storm Prep Checklist (PDF) – $19
+  </a>
+</p>
+
+## What You Get
+- Format: PDF (printable)
+- Length: 6 pages
+- Delivery: Instant download via Payhip
+
+## Who It’s For
+- Florida homeowners (Duval, St. Johns, Clay, Nassau)
+- Realtors & property managers
+- New homeowners prepping for hurricane season
+
+## Why It Matters
+Minor issues become major after a storm. This checklist keeps you **organized, documented, and ready**.
+
+> ⚠️ **Disclaimer:** For homeowner guidance only. Not a substitute for professional inspection or emergency services. Always follow local advisories.
+
+---
+
+### Also on the blog
+- [How to Prepare Your Roof for Hurricane Season in NE Florida](/blog/prepare-your-roof-hurricane-florida/)
+- [The Ultimate Homeowner Hurricane Supply List](/blog/hurricane-supply-list/)
+
+<!-- Payhip buy buttons work fine on static sites. 
+     If you prefer their script/button, you can add it below and swap the anchor above. -->
+<script src="https://payhip.com/payhip.js"></script>
+<!-- Example Payhip script button (optional alternative):
+<a href="{{ site.checklist_url }}" class="payhip-buy-button" data-theme="none">Buy Now</a>
+-->
