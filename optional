@@ -1,0 +1,8 @@
+.button {
+  display:inline-block; padding:14px 28px; border-radius:6px;
+  font-weight:700; text-decoration:none; color:#fff; background:#F95738;
+  font-family: Montserrat, Arial, sans-serif;
+}
+.button--navy { background:#0D3B66; }
+.button--green { background:#2A9D8F; }
+.button--yellow { background:#E9C46A; color:#000; }
