@@ -1,0 +1,17 @@
+title: "StormReady Guides"
+description: "Practical checklists and templates for Florida homeowners."
+url: "https://EVERGREEN_HOME_GUIDES.github.io"
+theme: minima
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Navigation (minima)
+minima:
+  skin: classic
+  social_links:
+    - { platform: website,  user_url: "https://EVERGREEN_HOME_GUIDES.github.io" }
+
+# Optional easy variables
+checklist_url: "https://payhip.com/EvergreenHomeGuides"
